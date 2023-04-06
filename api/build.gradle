@@ -20,7 +20,6 @@ test {
     useJUnitPlatform()
 }
 
-
 application {
     mainClass = 'org.example.api.App'
 }
